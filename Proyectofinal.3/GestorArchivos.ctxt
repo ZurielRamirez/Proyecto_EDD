@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GestorArchivos
+comment1.params=ruta
+comment1.target=java.util.List\ leerpeliculaDesdeArchivo(java.lang.String)
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListaEnlazada
+comment1.params=
+comment1.target=ListaEnlazada()
+comment2.params=pelicula
+comment2.target=void\ agregar(Pelicula)
+comment3.params=pelicula
+comment3.target=boolean\ eliminar(Pelicula)
+comment4.params=pelicula
+comment4.target=boolean\ contiene(Pelicula)
+comment5.params=
+comment5.target=int\ size()
+numComments=6

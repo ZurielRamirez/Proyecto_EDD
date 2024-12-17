@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=pelicula
+comment1.target=Nodo(Pelicula)
+comment2.params=
+comment2.target=Pelicula\ getPelicula()
+comment3.params=pelicula
+comment3.target=void\ setPelicula(Pelicula)
+comment4.params=
+comment4.target=Nodo\ getSiguiente()
+comment5.params=siguiente
+comment5.target=void\ setSiguiente(Nodo)
+numComments=6
